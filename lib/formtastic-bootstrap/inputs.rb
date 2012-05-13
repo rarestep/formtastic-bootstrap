@@ -1,6 +1,7 @@
 require "formtastic-bootstrap/inputs/base"
 require "formtastic-bootstrap/inputs/boolean_input"
 require "formtastic-bootstrap/inputs/check_boxes_input"
+require "formtastic-bootstrap/inputs/country_input"
 require "formtastic-bootstrap/inputs/date_input"
 require "formtastic-bootstrap/inputs/datetime_input"
 require "formtastic-bootstrap/inputs/email_input"
